@@ -13,3 +13,6 @@ This bot leverages the **latest DeepSeek model** and is implemented in a **serve
 - 🌐 Serverless backend for efficient and scalable deployment
 - 📊 Community voting system to determine visibility of notes
 - 🔒 Secure and lightweight by design
+
+## Installation link
+https://discord.com/oauth2/authorize?client_id=1370550009031954434
